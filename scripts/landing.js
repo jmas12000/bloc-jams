@@ -21,7 +21,7 @@ window.onload = function() {
             animatePoints(pointsArray);    
         }
     });    
-}
+};
 
  
  /*Code above has been refactored from code below when asked:
